@@ -1,4 +1,4 @@
-Example using created preference `\Dathard\EmailAttachment\Model\Mail\Template\TransportBuilder::addAttachment`
+Example using created preference (`\Dathard\EmailAttachment\Model\Mail\Template\TransportBuilder::addAttachment`)
 
 
 ````php
